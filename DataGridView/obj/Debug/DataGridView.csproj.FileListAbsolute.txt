@@ -1,0 +1,10 @@
+C:\Users\LP2User\source\repos\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\LP2User\source\repos\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\LP2User\source\repos\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\LP2User\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.csprojResolveAssemblyReference.cache
+C:\Users\LP2User\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.Form1.resources
+C:\Users\LP2User\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\LP2User\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+C:\Users\LP2User\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\LP2User\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\LP2User\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.pdb
